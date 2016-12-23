@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "KrakenShop",
-    "currentPage": "index.html",
+    "currentPage": "kontakty.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -434,8 +434,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-family": "'Open Sans', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
               "font-size": "1.6rem"
@@ -621,6 +621,10 @@
             },
             "H3": {
               "color": "#000000"
+            },
+            "B": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           },
           "_anchor": "title1-l",

@@ -657,6 +657,7 @@ a:hover,
   color: #000000;
 }
 
+
 #menu2-h .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -673,7 +674,7 @@ a:hover,
 #menu2-h .link,
 #menu2-h .dropdown-item {
   color: #ffffff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 #menu2-h .link {
   font-size: 1.6rem;
@@ -745,6 +746,9 @@ a:hover,
 }
 #title1-l H3 {
   color: #000000;
+}
+#title1-l B {
+  font-family: 'Lato', sans-serif;
 }
 
 #menu2-v .hide-buttons .nav-btn {
